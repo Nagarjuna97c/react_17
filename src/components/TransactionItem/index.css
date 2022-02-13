@@ -1,0 +1,10 @@
+.image1 {
+  height: 45px;
+  width: 45px;
+}
+
+.button1 {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
